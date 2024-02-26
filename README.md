@@ -1,0 +1,2 @@
+# loop-network
+looptea testnet 
